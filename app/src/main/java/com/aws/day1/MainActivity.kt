@@ -15,14 +15,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         dataModel.add(DataModel("Vipul"))
-        dataModel.add(DataModel("Abhishek"))
-        dataModel.add(DataModel("Navneet"))
-        dataModel.add(DataModel("Vipul"))
-        dataModel.add(DataModel("Vipul"))
-        dataModel.add(DataModel("Vipul"))
-
-
-
 
         dataAdapter = DataAdapter(this, dataModel)
         binding.recycler.adapter = dataAdapter
