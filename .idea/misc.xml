@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Day1/app/src/main/res/drawable/toggle_selector.xml" value="0.1285" />
         <entry key="..\:/Day1/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
         <entry key="..\:/Day1/app/src/main/res/layout/item_data.xml" value="0.24166666666666667" />
       </map>
